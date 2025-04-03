@@ -1,0 +1,16 @@
+.container {
+  max-width: 1240px;
+  padding: 20px 15px 50px;
+  margin: auto;
+}
+
+.back_btn {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+
+  background-color: #f6f6f6;
+
+  font-weight: 500;
+
+  display: inline-block;
+}

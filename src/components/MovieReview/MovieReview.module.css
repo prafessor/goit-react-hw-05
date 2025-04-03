@@ -1,0 +1,18 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.item {
+  padding: 15px 25px;
+
+  background-color: #f6f6f6;
+}
+
+.title {
+  margin-bottom: 10px;
+
+  font-size: 18px;
+  font-weight: 500;
+}
